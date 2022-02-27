@@ -276,3 +276,9 @@ https://localhost:8443
 
 Git Hub (Source code Management) ->  Jenkins (Code Compilation) -> JFrog Artifactory (Jenkins PUSH the code to Artifactory) -> UDeploy (Artifact deployment ,  Udeploy PULLS the artifact from artifactory)
 
+sudo wget https://ak-delivery04-mul.dhe.ibm.com/sar/CMA/RAA/06t7l/1/ibm-ucd-6.2.4.0.898469.zip
+
+
+https://github.com/a5221985/tutorials/blob/master/Deployment_Tools/udeploy.md
+
+
